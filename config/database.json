@@ -1,0 +1,4 @@
+{
+    "dbTest": "mongodb://localhost:27017/pordifolio-api-teste",
+    "dbProduction": "mongodb://localhost:27017/portifolio-api"
+}
